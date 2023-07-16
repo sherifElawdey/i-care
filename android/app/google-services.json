@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897857541871",
+    "project_id": "i-care-ed81b",
+    "storage_bucket": "i-care-ed81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897857541871:android:520b6bfb1fec2fe4b1ed1a",
+        "android_client_info": {
+          "package_name": "com.example.icare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897857541871-rjitn8960ro2q8e5rek867v7koo13qah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAajJjASXD4kpj-wD5tbS70KMkDK9Je2gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897857541871-rjitn8960ro2q8e5rek867v7koo13qah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
